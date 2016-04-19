@@ -1,0 +1,25 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "Node learning project",
+  "main": "express_server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-favicon": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberts-b/node_learning.git"
+  },
+  "author": "Robik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberts-b/node_learning/issues"
+  },
+  "homepage": "https://github.com/roberts-b/node_learning#readme"
+}
